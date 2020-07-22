@@ -27,7 +27,9 @@
     "no-underscore-dangle": "off",
     "prettier/prettier": "error",
     "class-methods-use-this": "off",
+    "no-restricted-syntax": "off",
     "@typescript-eslint/camelcase": "off",
+    "no-await-in-loop":"off",
     "@typescript-eslint/no-unused-vars": ["error", {
       "argsIgnorePattern": "_"
     }],
